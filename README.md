@@ -15,6 +15,6 @@ admin number: 00
 admin pass: 00
 (They must be used to login as admin)
 
-- I have attached a video (demo) to explain my scenario 
+- I have attached a demo video to explain my scenario 
 
 
